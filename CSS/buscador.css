@@ -1,0 +1,16 @@
+.search-form {
+    display: none;
+    position: absolute;
+    top: 55px; 
+    right: 200px;
+    background-color: transparent;
+    padding: 10px;
+    border-radius: 5px;
+    color: #FFD700;
+  }
+  
+  .search-form input {
+    margin-right: 5px;
+    padding: 5px;
+    color: #FFD700;
+  }
